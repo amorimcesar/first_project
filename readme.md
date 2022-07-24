@@ -13,7 +13,8 @@ Landing Page desenvolida na NEXT LEVEL WEEK da Rocket Seat
 
 # Preview
 
-![IM2](https://github.com/amorimcesar/pomodorotimerdark/blob/main/assets/IMG.jpeg)
+![IM2](https://github.com/amorimcesar/first_project/blob/main/assets/DOCTOR%20CARE%20PRINT.jpg)
 
 
 Contribuições são sempre bem-vindas!
+
